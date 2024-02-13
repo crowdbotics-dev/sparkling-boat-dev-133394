@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.3",
+    "cookiecutter_context": {
+      "project_name": "Sparkling Boat",
+      "project_slug": "sparkling_boat_dev_133394",
+      "project_dash_slug": "sparkling-boat-dev-133394",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "cb+loadtest121@abd.dev",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
